@@ -22,7 +22,7 @@ Experience the Quote of the Day: [Quote of the Day Demo](https://kirankumar72.gi
 1. Visit the [Quote of the Day Demo](https://kirankumar72.github.io/Quote-Generator/).
 2. The initial quote and author will be loaded automatically.
 3. Click the "New Quote" button to get a new inspiring quote.
-4. Click the "Tweet" button to share the current quote on Twitter.
+4. Click the "Tweet" button to share the current quote on Twitter
 
 ## Built With
 - HTML
